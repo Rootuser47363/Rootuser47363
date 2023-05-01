@@ -33,3 +33,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootuser47363&theme=dark" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  Si quieres apoyarme, puedes hacer una donación a través de mi cuenta de PayPal aquí:
+  <a href="https://www.paypal.me/rodrigo47363">https://www.paypal.me/rodrigo47363</a>
+</p>
