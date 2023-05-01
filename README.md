@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/rootuser47363?label=Follow%20me%21&style=social" alt="Twitter Follow" />
+  <a href="https://twitter.com/empanadadeUwU47" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/empanadadeUwU47?label=Follow%20me%21&style=social" alt="Twitter Follow" />
   </a>
 </p>
 
