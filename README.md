@@ -1,29 +1,35 @@
-#!/bin/bash
+<h1 align="center">Hi 👋, I'm Rootuser47363</h1>
 
-# Obtenemos la lista de repositorios
-REPO_LIST=$(curl -s "https://api.github.com/users/Rootuser47363/repos?per_page=1000" | jq -r '.[].full_name')
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rootuser47363&label=Profile%20views&color=0e75b6&style=flat" alt="rootuser47363" />
+</p>
 
-# Recorremos la lista de repositorios
-for REPO in $REPO_LIST; do
-    # Obtenemos los stats del repositorio
-    STATS=$(curl -s "https://api.github.com/repos/$REPO")
+<p align="center">
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/rootuser47363?label=Follow%20me%21&style=social" alt="Twitter Follow" />
+  </a>
+</p>
 
-    # Obtenemos el número de estrellas
-    STARS=$(echo "$STATS" | jq -r '.stargazers_count')
+<h3 align="center">Languages and Tools:</h3>
 
-    # Obtenemos el número de forks
-    FORKS=$(echo "$STATS" | jq -r '.forks_count')
+<p align="center">
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <!-- Add more tools and languages here -->
+</p>
 
-    # Obtenemos el número de contribuidores
-    CONTRIBUTORS=$(echo "$STATS" | jq -r '.contributors_url' | xargs curl -s | jq '. | length')
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootuser47363&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
-    # Obtenemos los lenguajes utilizados
-    LANGUAGES=$(curl -s "https://api.github.com/repos/$REPO/languages" | jq -r 'keys[] as $k | "\($k): \(.[$k])"')
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rootuser47363&show_icons=true&count_private=true&hide=stars&theme=dark" alt="GitHub Stats" />
+</p>
 
-    # Escribimos los stats en el archivo README.md del repositorio
-    echo "## Stats
-- Stars: $STARS
-- Forks: $FORKS
-- Contributors: $CONTRIBUTORS
-- Languages: $LANGUAGES" > "$REPO/README.md"
-done
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootuser47363&theme=dark" alt="GitHub Streak" />
+</p>
