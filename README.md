@@ -28,6 +28,6 @@ en
 
 Si quieres unirte a Hack The Box, puedes registrarte a través de mi enlace de referido: [¡Regístrate aquí!](https://referral.hackthebox.com/mzwJfOf)
 
-## Donation link
+## Donation Link
 
-Si quieres apoyarme, puedes hacer una donación a través de mi cuenta de PayPal [aquí](https://paypal.me/rootuser473630?country.x=MX&locale.x=es_XC).
+Si deseas apoyarme, puedes hacer una [donación a través de mi cuenta de PayPal](https://paypal.me/rootuser473630).
