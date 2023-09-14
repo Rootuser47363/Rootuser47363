@@ -30,4 +30,4 @@ Si quieres unirte a Hack The Box, puedes registrarte a través de mi enlace de r
 
 ## Donation link
 
-Si quieres apoyarme, puedes hacer una donación a través de mi cuenta de PayPal [aquí](paypal.me/rootuser473630).
+Si quieres apoyarme, puedes hacer una donación a través de mi cuenta de PayPal [aquí](https://paypal.me/rootuser473630?country.x=MX&locale.x=es_XC).
