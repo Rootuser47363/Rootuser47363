@@ -28,6 +28,10 @@ en
 
 Si quieres unirte a Hack The Box, puedes registrarte a través de mi enlace de referido: [¡Regístrate aquí!](https://referral.hackthebox.com/mzwJfOf)
 
+## TryHackMe referral link
+
+También puedes unirte a TryHackMe a través de mi enlace de referido: [¡Regístrate aquí en TryHackMe!](https://tryhackme.com/signup?referrer=64f0d7665fde58f3ec71379b)
+
 ## Donation Link
 
 Si deseas apoyarme, puedes hacer una [donación a través de mi cuenta de PayPal](https://paypal.me/rootuser473630).
